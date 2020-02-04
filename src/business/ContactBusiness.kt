@@ -21,7 +21,7 @@ class ContactBusiness {
         }
     }
 
-    fun contactCountDescription(): String {
+    fun getContactCountDescription(): String {
         val list = getList()
         return when {
             list.isEmpty() -> "0 contatos"

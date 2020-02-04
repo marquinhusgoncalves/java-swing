@@ -4,8 +4,8 @@
     <list default="true" id="71be745e-5b03-403e-a450-21ac0bac86fe" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/business/ContactBusiness.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/business/ContactBusiness.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ui/MainForm.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/MainForm.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ui/MainForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/MainForm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/ContactForm.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/ContactForm.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/ContactForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/ContactForm.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
