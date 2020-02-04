@@ -37,7 +37,7 @@ public class MainForm extends JFrame{
     private void loadContacts() {
         List<ContactEntity> contactList = mContactBusiness.getList();
 
-        String[] columnNames = ["Nome", "Telefone"];
+        String[] columnNames = {"Nome", "Telefone"};
         DefaultTableModel model = new DefaultTableModel(new Object[0][0], columnNames);
 
         for (ContactEntity i : contactList) {
